@@ -1,6 +1,8 @@
 # Proyecto_Casino_royale
 Descripción del Proyecto
 
+Version 1.0.0
+
 Casino Royale es un simulador de juegos de azar que permite al usuario participar en tres juegos clásicos: Ruleta, Carta Alta y Blackjack, todo desde la consola. El programa está desarrollado en Python de forma modular y utiliza el paquete rich para mejorar la experiencia visual en terminal con colores, tablas e instrucciones estilizadas.
 
 Cada jugador puede gestionar su propio saldo virtual, realizar apuestas y disfrutar de una experiencia interactiva con animaciones y reglas personalizadas para cada juego.
